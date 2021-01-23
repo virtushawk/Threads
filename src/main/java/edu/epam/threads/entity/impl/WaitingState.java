@@ -1,13 +1,10 @@
-package edu.epam.threads.state.impl;
+package edu.epam.threads.entity.impl;
 
 import edu.epam.threads.entity.Ferry;
 import edu.epam.threads.entity.Vehicle;
-import edu.epam.threads.state.State;
+import edu.epam.threads.entity.State;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
 public class WaitingState implements State {
     private static final Logger logger = LogManager.getLogger(WaitingState.class);
@@ -22,14 +19,14 @@ public class WaitingState implements State {
         if (ferry.getFreeArea() >= vehicle.getArea() && ferry.getFreeCapacity() >= vehicle.getWeight()) {
             ferry.addToVehicles(vehicle);
         } else {
-            ferry.addToQuery(vehicle);
-            ferry.changeState(new ReadyState());
+            ferry.addToQueue(vehicle);
+            ferry.changeState(new ReadyState(ferry));
             ferry.run();
         }
     }
 
     @Override
     public void run() {
-
+        throw new UnsupportedOperationException();
     }
 }

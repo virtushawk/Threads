@@ -1,241 +1,158 @@
-12:45:19.270 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-12:45:19.273 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-12:45:19.273 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-12:45:19.271 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-12:45:19.273 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-12:45:19.300 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-12:45:19.301 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:03:01.702 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - added to vehicles 5.0, Free space 2.0
-14:03:01.702 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 22.0
-14:03:01.702 [pool-1-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 0.0, Free space 32.0
-14:03:01.702 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - added to vehicles 2.0, Free space 30.0
-14:03:01.702 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - added to vehicles 15.0, Free space 7.0
-14:03:01.702 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - added to query 18.0
-14:03:01.702 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - added to query 13.0
-14:03:01.702 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 4.0, Free space 41.0
-14:03:01.702 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 6.0, Free space 35.0
-14:03:01.702 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 62.0
-14:03:01.702 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - added to vehicles 3.0, Free space 32.0
-14:03:01.702 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - added to query 19.0
-14:03:01.702 [pool-1-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 62.0
-14:03:01.702 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 35.0
-14:03:01.702 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - added to query 12.0
-14:03:01.702 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:03:01.702 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 62.0
-14:03:01.702 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 45.0
-14:03:01.702 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - added to query 14.0
-14:03:01.702 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:03:01.702 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:03:01.702 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:03:01.702 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:03:01.702 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 62.0
-14:03:01.702 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - added to query 16.0
-14:03:01.702 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:03:01.718 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:03:01.718 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:03:01.718 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:03:01.718 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:03:01.718 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:03:01.718 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:03:11.730 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:03:11.730 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:03:11.730 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:03:11.730 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:03:11.730 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:03:11.730 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:03:11.730 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:03:11.730 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:03:11.730 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:03:11.730 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:03:11.730 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:03:11.730 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:04:26.773 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - added to vehicles 12.0, Free space 52.0
-14:04:26.773 [pool-1-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 0.0, Free space 66.0
-14:04:26.773 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 4.0, Free space 66.0
-14:04:26.773 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 35.0
-14:04:26.773 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 61.0
-14:04:26.773 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - added to vehicles 14.0, Free space 25.0
-14:04:26.773 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 52.0
-14:04:26.773 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - added to vehicles 2.0, Free space 52.0
-14:04:26.773 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - added to vehicles 5.0, Free space 73.0
-14:04:26.773 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 61.0
-14:04:26.773 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - added to vehicles 3.0, Free space 70.0
-14:04:26.773 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - added to vehicles 15.0, Free space 10.0
-14:04:26.773 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 91.0
-14:04:26.773 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - added to vehicles 18.0, Free space 61.0
-14:04:26.773 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - added to vehicles 13.0, Free space 39.0
-14:04:26.773 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 99.0
-14:04:26.773 [pool-1-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 84.0
-14:04:26.773 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 6.0, Free space 78.0
-14:04:57.266 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - added to query 14.0
-14:04:57.266 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 15.0
-14:04:57.266 [pool-1-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 0.0, Free space 0.0
-14:04:57.266 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 63.0
-14:04:57.266 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - added to query 13.0
-14:04:57.266 [pool-1-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 0.0
-14:04:57.266 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - added to query 3.0
-14:04:57.266 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - added to vehicles 19.0, Free space 43.0
-14:04:57.266 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - added to query 6.0
-14:04:57.266 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 63.0
-14:04:57.266 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - added to query 5.0
-14:04:57.281 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.281 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.266 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 63.0
-14:04:57.266 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 62.0
-14:04:57.266 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - added to vehicles 18.0, Free space 25.0
-14:04:57.266 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - added to query 4.0
-14:04:57.281 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.266 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - added to query 2.0
-14:04:57.266 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 7.0
-14:04:57.266 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - added to query 15.0
-14:04:57.281 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.281 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.281 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.281 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.266 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - added to query 16.0
-14:04:57.281 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.281 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:04:57.281 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:04:57.281 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:04:57.281 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:04:57.266 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - added to query 12.0
-14:04:57.281 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:04:57.281 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:04:57.281 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:04:57.281 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.281 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:04:57.281 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:04:57.281 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:05:07.281 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:05:07.281 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:05:07.281 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:20.421 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - added to query 13.0
-14:13:20.421 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - added to query 8.0
-14:13:20.421 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 48.0
-14:13:20.421 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 4.0, Free space 0.0
-14:13:20.421 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - added to query 5.0
-14:13:20.421 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to query 11.0
-14:13:20.421 [pool-1-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 0.0, Free space 48.0
-14:13:20.421 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - added to query 2.0
-14:13:20.421 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - added to query 15.0
-14:13:20.421 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - added to vehicles 18.0, Free space 30.0
-14:13:20.421 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - added to query 14.0
-14:13:20.437 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.437 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.421 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - added to vehicles 16.0, Free space 48.0
-14:13:20.421 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 11.0
-14:13:20.421 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - added to query 6.0
-14:13:20.437 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.421 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 20.0
-14:13:20.437 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.421 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - added to query 3.0
-14:13:20.421 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - added to vehicles 19.0, Free space 48.0
-14:13:20.437 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.421 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - added to query 12.0
-14:13:20.437 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.437 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.437 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.421 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - added to query 1.0
-14:13:20.437 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.437 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.421 [pool-1-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 4.0
-14:13:20.437 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:13:20.437 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:13:20.437 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:13:20.437 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:13:20.437 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:13:20.437 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:13:20.437 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:13:30.447 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.448 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.447 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.447 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.447 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.448 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.448 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.448 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.448 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.447 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.447 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.447 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.448 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.449 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.449 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.447 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:13:30.449 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.449 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.449 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.450 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.450 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:13:30.450 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:24.603 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 14.0
-14:22:24.602 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 64.0
-14:22:24.603 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - added to query 3.0
-14:22:24.603 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 6.0, Free space 1.0
-14:22:24.603 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - added to query 5.0
-14:22:24.603 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 0.0
-14:22:24.603 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - added to query 15.0
-14:22:24.602 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - added to query 16.0
-14:22:24.602 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - added to query 14.0
-14:22:24.603 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - added to vehicles 19.0, Free space 34.0
-14:22:24.611 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.611 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.602 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - added to vehicles 12.0, Free space 22.0
-14:22:24.611 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.602 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 53.0
-14:22:24.602 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 74.0
-14:22:24.603 [pool-1-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 7.0
-14:22:24.603 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 53.0
-14:22:24.603 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - added to query 13.0
-14:22:24.611 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.603 [pool-1-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 0.0, Free space 53.0
-14:22:24.603 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - added to query 4.0
-14:22:24.611 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.602 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - added to query 2.0
-14:22:24.612 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.612 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.612 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.612 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:22:24.603 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - added to query 18.0
-14:22:24.612 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:22:24.612 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:22:24.612 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:22:24.612 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:22:24.612 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:22:24.612 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.ReadyState
-14:22:24.612 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.RunningState
-14:22:34.616 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:34.616 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:34.616 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:34.616 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:34.616 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
-14:22:34.616 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:34.616 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:34.616 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:34.616 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
-14:22:34.616 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.state.impl.WaitingState
+14:40:50.902 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 15.0
+14:42:59.971 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - added to vehicles 2.0, Free space 98.0
+14:42:59.974 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - added to vehicles 5.0, Free space 93.0
+14:42:59.975 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - added to vehicles 3.0, Free space 90.0
+14:42:59.976 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - added to vehicles 12.0, Free space 78.0
+14:42:59.976 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 69.0
+14:42:59.977 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 6.0, Free space 63.0
+14:42:59.978 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 52.0
+14:42:59.978 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - added to vehicles 15.0, Free space 37.0
+14:42:59.979 [pool-1-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 0.0, Free space 37.0
+14:42:59.979 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 4.0, Free space 33.0
+14:42:59.980 [pool-1-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 26.0
+14:42:59.980 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - added to vehicles 19.0, Free space 7.0
+14:42:59.981 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - added to query 13.0
+14:42:59.981 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.ReadyState
+14:42:59.983 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.RunningState
+14:43:09.991 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
+14:43:09.991 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.WaitingState
+14:43:09.992 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 92.0
+14:43:09.994 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - added to vehicles 14.0, Free space 78.0
+14:43:09.995 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 61.0
+14:43:09.997 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 51.0
+14:43:09.998 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - added to vehicles 16.0, Free space 35.0
+14:43:09.999 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - added to vehicles 18.0, Free space 17.0
+14:43:09.999 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 16.0
+23:22:22.403 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 90.0
+23:22:22.404 [pool-1-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 0.0, Free space 90.0
+23:22:22.411 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 6.0, Free space 84.0
+23:22:22.411 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - added to vehicles 19.0, Free space 65.0
+23:22:22.413 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - added to vehicles 2.0, Free space 63.0
+23:22:22.414 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - added to vehicles 5.0, Free space 58.0
+23:22:22.415 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - added to vehicles 12.0, Free space 46.0
+23:22:22.416 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 29.0
+23:22:22.417 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - added to vehicles 13.0, Free space 16.0
+23:22:22.417 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 8.0
+23:22:22.418 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - added to query 14.0
+23:22:22.422 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.ReadyState
+23:22:22.424 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.RunningState
+23:22:32.432 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
+23:22:32.432 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.WaitingState
+23:22:32.432 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - added to vehicles 15.0, Free space 85.0
+23:22:32.434 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 76.0
+23:22:32.435 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 65.0
+23:22:32.436 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - added to vehicles 18.0, Free space 47.0
+23:22:32.437 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 46.0
+23:22:32.438 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - added to vehicles 16.0, Free space 30.0
+23:22:32.439 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 4.0, Free space 26.0
+23:22:32.440 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - added to vehicles 3.0, Free space 23.0
+23:22:32.440 [pool-1-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 16.0
+23:45:51.361 [pool-1-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 91.0
+23:45:51.372 [pool-1-thread-6] INFO  edu.epam.threads.entity.Ferry - added to vehicles 5.0, Free space 86.0
+23:45:51.375 [pool-1-thread-13] INFO  edu.epam.threads.entity.Ferry - added to vehicles 12.0, Free space 74.0
+23:45:51.376 [pool-1-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 63.0
+23:45:51.377 [pool-1-thread-20] INFO  edu.epam.threads.entity.Ferry - added to vehicles 19.0, Free space 44.0
+23:45:51.380 [pool-1-thread-4] INFO  edu.epam.threads.entity.Ferry - added to vehicles 3.0, Free space 41.0
+23:45:51.381 [pool-1-thread-17] INFO  edu.epam.threads.entity.Ferry - added to vehicles 16.0, Free space 25.0
+23:45:51.383 [pool-1-thread-14] INFO  edu.epam.threads.entity.Ferry - added to vehicles 13.0, Free space 12.0
+23:45:51.385 [pool-1-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 11.0
+23:45:51.387 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - added to query 17.0
+23:45:51.390 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.ReadyState
+23:45:51.393 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.RunningState
+23:46:01.402 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
+23:46:01.402 [pool-1-thread-18] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.WaitingState
+23:46:01.403 [pool-1-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 93.0
+23:46:01.403 [pool-1-thread-15] INFO  edu.epam.threads.entity.Ferry - added to vehicles 14.0, Free space 79.0
+23:46:01.404 [pool-1-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 0.0, Free space 79.0
+23:46:01.404 [pool-1-thread-3] INFO  edu.epam.threads.entity.Ferry - added to vehicles 2.0, Free space 77.0
+23:46:01.404 [pool-1-thread-16] INFO  edu.epam.threads.entity.Ferry - added to vehicles 15.0, Free space 62.0
+23:46:01.406 [pool-1-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 6.0, Free space 56.0
+23:46:01.406 [pool-1-thread-19] INFO  edu.epam.threads.entity.Ferry - added to vehicles 18.0, Free space 38.0
+23:46:01.406 [pool-1-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 4.0, Free space 34.0
+23:46:01.407 [pool-1-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 24.0
+23:46:01.407 [pool-1-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 16.0
+00:32:11.133 [main] ERROR edu.epam.threads.reader.VehicleReader - an error occurred while reading the file
+java.nio.file.NoSuchFileException: \file\test.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:120) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:292) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:345) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4037) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4129) ~[?:?]
+	at edu.epam.threads.reader.VehicleReader.readFromFile(VehicleReader.java:19) [classes/:?]
+	at edu.epam.threads.main.Main.main(Main.java:20) [classes/:?]
+00:41:26.866 [pool-2-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 99.0
+00:41:26.869 [pool-2-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 12.0, Free space 87.0
+00:41:26.870 [pool-2-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 5.0, Free space 82.0
+00:41:26.870 [pool-2-thread-14] INFO  edu.epam.threads.entity.Ferry - added to vehicles 14.0, Free space 68.0
+00:41:26.871 [pool-2-thread-6] INFO  edu.epam.threads.entity.Ferry - added to vehicles 6.0, Free space 62.0
+00:41:26.871 [pool-2-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 55.0
+00:41:26.872 [pool-2-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 46.0
+00:41:26.872 [pool-2-thread-15] INFO  edu.epam.threads.entity.Ferry - added to vehicles 15.0, Free space 31.0
+00:41:26.873 [pool-2-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 23.0
+00:41:26.873 [pool-2-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 2.0, Free space 21.0
+00:41:26.874 [pool-2-thread-20] INFO  edu.epam.threads.entity.Ferry - added to vehicles 20.0, Free space 1.0
+00:41:26.874 [pool-2-thread-19] INFO  edu.epam.threads.entity.Ferry - added to query 19.0
+00:41:26.876 [pool-2-thread-19] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.ReadyState
+00:41:26.878 [pool-2-thread-19] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.RunningState
+00:41:36.879 [pool-2-thread-19] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
+00:41:36.880 [pool-2-thread-19] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.WaitingState
+00:41:36.880 [pool-2-thread-17] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 83.0
+00:41:36.880 [pool-2-thread-4] INFO  edu.epam.threads.entity.Ferry - added to vehicles 4.0, Free space 79.0
+00:41:36.881 [pool-2-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 69.0
+00:41:36.881 [pool-2-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 18.0, Free space 51.0
+00:41:36.881 [pool-2-thread-16] INFO  edu.epam.threads.entity.Ferry - added to vehicles 16.0, Free space 35.0
+00:41:36.882 [pool-2-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 24.0
+00:41:36.882 [pool-2-thread-3] INFO  edu.epam.threads.entity.Ferry - added to vehicles 3.0, Free space 21.0
+00:41:36.883 [pool-2-thread-13] INFO  edu.epam.threads.entity.Ferry - added to vehicles 13.0, Free space 8.0
+01:09:59.518 [pool-2-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 99.0
+01:09:59.524 [pool-2-thread-15] INFO  edu.epam.threads.entity.Ferry - added to vehicles 15.0, Free space 84.0
+01:09:59.526 [pool-2-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 5.0, Free space 79.0
+01:09:59.527 [pool-2-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 70.0
+01:09:59.528 [pool-2-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 59.0
+01:09:59.528 [pool-2-thread-14] INFO  edu.epam.threads.entity.Ferry - added to vehicles 14.0, Free space 45.0
+01:09:59.529 [pool-2-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 35.0
+01:09:59.530 [pool-2-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 28.0
+01:09:59.530 [pool-2-thread-16] INFO  edu.epam.threads.entity.Ferry - added to vehicles 16.0, Free space 12.0
+01:09:59.532 [pool-2-thread-17] INFO  edu.epam.threads.entity.Ferry - added to query 17.0
+01:09:59.534 [pool-2-thread-17] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.ReadyState
+01:09:59.534 [pool-2-thread-18] INFO  edu.epam.threads.entity.Ferry - added to query 18.0
+01:09:59.534 [pool-2-thread-19] INFO  edu.epam.threads.entity.Ferry - added to query 19.0
+01:09:59.535 [pool-2-thread-13] INFO  edu.epam.threads.entity.Ferry - added to query 13.0
+01:09:59.535 [pool-2-thread-4] INFO  edu.epam.threads.entity.Ferry - added to query 4.0
+01:09:59.536 [pool-2-thread-2] INFO  edu.epam.threads.entity.Ferry - added to query 2.0
+01:09:59.537 [pool-2-thread-8] INFO  edu.epam.threads.entity.Ferry - added to query 8.0
+01:09:59.537 [pool-2-thread-12] INFO  edu.epam.threads.entity.Ferry - added to query 12.0
+01:09:59.537 [pool-2-thread-20] INFO  edu.epam.threads.entity.Ferry - added to query 20.0
+01:09:59.539 [pool-2-thread-6] INFO  edu.epam.threads.entity.Ferry - added to query 6.0
+01:09:59.540 [pool-2-thread-3] INFO  edu.epam.threads.entity.Ferry - added to query 3.0
+01:20:26.811 [pool-2-thread-1] INFO  edu.epam.threads.entity.Ferry - added to vehicles 1.0, Free space 99.0
+01:20:26.818 [pool-2-thread-8] INFO  edu.epam.threads.entity.Ferry - added to vehicles 8.0, Free space 91.0
+01:20:26.819 [pool-2-thread-10] INFO  edu.epam.threads.entity.Ferry - added to vehicles 10.0, Free space 81.0
+01:20:26.820 [pool-2-thread-9] INFO  edu.epam.threads.entity.Ferry - added to vehicles 9.0, Free space 72.0
+01:20:26.820 [pool-2-thread-3] INFO  edu.epam.threads.entity.Ferry - added to vehicles 3.0, Free space 69.0
+01:20:26.821 [pool-2-thread-2] INFO  edu.epam.threads.entity.Ferry - added to vehicles 2.0, Free space 67.0
+01:20:26.822 [pool-2-thread-7] INFO  edu.epam.threads.entity.Ferry - added to vehicles 7.0, Free space 60.0
+01:20:26.823 [pool-2-thread-16] INFO  edu.epam.threads.entity.Ferry - added to vehicles 16.0, Free space 44.0
+01:20:26.825 [pool-2-thread-17] INFO  edu.epam.threads.entity.Ferry - added to vehicles 17.0, Free space 27.0
+01:20:26.826 [pool-2-thread-15] INFO  edu.epam.threads.entity.Ferry - added to vehicles 15.0, Free space 12.0
+01:20:26.827 [pool-2-thread-14] INFO  edu.epam.threads.entity.Ferry - added to query 14.0
+01:20:26.828 [pool-2-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.ReadyState
+01:20:26.830 [pool-2-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.RunningState
+01:20:36.834 [pool-2-thread-14] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
+01:20:36.836 [pool-2-thread-14] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.WaitingState
+01:20:36.836 [pool-2-thread-5] INFO  edu.epam.threads.entity.Ferry - added to vehicles 5.0, Free space 95.0
+01:20:36.838 [pool-2-thread-12] INFO  edu.epam.threads.entity.Ferry - added to vehicles 12.0, Free space 83.0
+01:20:36.840 [pool-2-thread-13] INFO  edu.epam.threads.entity.Ferry - added to vehicles 13.0, Free space 70.0
+01:20:36.841 [pool-2-thread-6] INFO  edu.epam.threads.entity.Ferry - added to vehicles 6.0, Free space 64.0
+01:20:36.843 [pool-2-thread-11] INFO  edu.epam.threads.entity.Ferry - added to vehicles 11.0, Free space 53.0
+01:20:36.844 [pool-2-thread-4] INFO  edu.epam.threads.entity.Ferry - added to vehicles 4.0, Free space 49.0
+01:20:36.846 [pool-2-thread-18] INFO  edu.epam.threads.entity.Ferry - added to vehicles 18.0, Free space 31.0
+01:20:36.847 [pool-2-thread-19] INFO  edu.epam.threads.entity.Ferry - added to vehicles 19.0, Free space 12.0
+01:20:36.849 [pool-2-thread-20] INFO  edu.epam.threads.entity.Ferry - added to query 20.0
+01:20:36.851 [pool-2-thread-20] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.ReadyState
+01:20:36.851 [pool-2-thread-20] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.RunningState
+01:20:46.853 [pool-2-thread-20] INFO  edu.epam.threads.entity.Ferry - Vehicles cleared
+01:20:46.854 [pool-2-thread-20] INFO  edu.epam.threads.entity.Ferry - State changed class edu.epam.threads.entity.impl.WaitingState

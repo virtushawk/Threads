@@ -1,7 +1,4 @@
-package edu.epam.threads.state;
-
-
-import edu.epam.threads.entity.Vehicle;
+package edu.epam.threads.entity;
 
 public interface State {
     public void load(Vehicle vehicle);
